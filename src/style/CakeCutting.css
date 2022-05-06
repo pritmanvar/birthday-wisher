@@ -1,0 +1,17 @@
+.cakeContainer{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cake{
+    position: absolute;
+    height: 300px;
+    top: calc(100% - 350px);
+}
+.candleLight{
+    position: absolute;
+    height: 40px;
+    margin: auto;
+    top: calc(100% - 350px - 30px);
+}

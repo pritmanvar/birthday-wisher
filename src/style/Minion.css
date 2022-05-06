@@ -1,0 +1,54 @@
+.minion{
+    position: absolute;
+    height: 300px;
+    top: calc(100% - 350px - 50px);
+    right: 0;
+    transform: all 0.5s linear;
+}
+.minion:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}
+.minion:active{
+    transform: scale(1.1);
+}
+.minionThought::before{
+    content: "Let's blow out the candles together. Please click me.";
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: url(../images/thought.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 110px;
+    width: 150px;
+    top: calc(100% - 350px - 75px);
+    right: 200px;
+}
+.wind{
+    position: absolute;
+    height: 70px;
+    top: calc(100% - 350px + 50px);
+    right: 165px;
+    transform: rotate(10deg);
+    opacity: 0;
+}
+.animateWind{
+    animation: windAnimation 1s linear 0s 1 forwards;
+}
+@keyframes windAnimation {
+    0%{
+        top: calc(100% - 350px + 50px);
+        right: 165px;
+        opacity: 1;
+    }70%{
+        opacity: 1;
+    }100%{
+        top: calc(100% - 350px - 50px);
+        right: calc(50% - 50px);
+        opacity: 0;
+    }
+}
