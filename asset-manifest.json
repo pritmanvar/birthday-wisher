@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/first-react-project/static/css/main.c655ffbe.css",
+    "main.js": "/first-react-project/static/js/main.63ca2849.js",
+    "static/js/787.24a244c9.chunk.js": "/first-react-project/static/js/787.24a244c9.chunk.js",
+    "static/media/Happy-Birthday-Song.mp3": "/first-react-project/static/media/Happy-Birthday-Song.c9f377543144f4b40286.mp3",
+    "static/media/balloons.png": "/first-react-project/static/media/balloons.7e03387012148eb47ffa.png",
+    "static/media/minion.png": "/first-react-project/static/media/minion.68feaf499888d4b2794b.png",
+    "static/media/cakeWithoutLight.png": "/first-react-project/static/media/cakeWithoutLight.2b279bfe49ea773e4b68.png",
+    "static/media/background.jpg": "/first-react-project/static/media/background.e648cb277009545d9ad9.jpg",
+    "static/media/wind.png": "/first-react-project/static/media/wind.31f579ef9542510b20f4.png",
+    "static/media/candleLightCropedFinal.gif": "/first-react-project/static/media/candleLightCropedFinal.08486f48e1d4db6a0166.gif",
+    "static/media/textbg1.jpg": "/first-react-project/static/media/textbg1.0468ee0fc9975fd95b83.jpg",
+    "static/media/lightSwitch.png": "/first-react-project/static/media/lightSwitch.0cdd3acd82015419801e.png",
+    "static/media/thought.png": "/first-react-project/static/media/thought.d445d62cdeea8ec70143.png",
+    "index.html": "/first-react-project/index.html",
+    "main.c655ffbe.css.map": "/first-react-project/static/css/main.c655ffbe.css.map",
+    "main.63ca2849.js.map": "/first-react-project/static/js/main.63ca2849.js.map",
+    "787.24a244c9.chunk.js.map": "/first-react-project/static/js/787.24a244c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c655ffbe.css",
+    "static/js/main.63ca2849.js"
+  ]
+}
