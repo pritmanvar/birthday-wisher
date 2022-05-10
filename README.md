@@ -1,3 +1,9 @@
+<h1>About</h1> 
+
+This is a birthday wisher website. Which allows to blow candles and at last give wishes.
+
+<hr>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
