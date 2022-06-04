@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/first-react-project/static/css/main.c655ffbe.css",
-    "main.js": "/first-react-project/static/js/main.63ca2849.js",
+    "main.js": "/first-react-project/static/js/main.b4d3cee9.js",
     "static/js/787.24a244c9.chunk.js": "/first-react-project/static/js/787.24a244c9.chunk.js",
     "static/media/Happy-Birthday-Song.mp3": "/first-react-project/static/media/Happy-Birthday-Song.c9f377543144f4b40286.mp3",
     "static/media/balloons.png": "/first-react-project/static/media/balloons.7e03387012148eb47ffa.png",
@@ -15,11 +15,11 @@
     "static/media/thought.png": "/first-react-project/static/media/thought.d445d62cdeea8ec70143.png",
     "index.html": "/first-react-project/index.html",
     "main.c655ffbe.css.map": "/first-react-project/static/css/main.c655ffbe.css.map",
-    "main.63ca2849.js.map": "/first-react-project/static/js/main.63ca2849.js.map",
+    "main.b4d3cee9.js.map": "/first-react-project/static/js/main.b4d3cee9.js.map",
     "787.24a244c9.chunk.js.map": "/first-react-project/static/js/787.24a244c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c655ffbe.css",
-    "static/js/main.63ca2849.js"
+    "static/js/main.b4d3cee9.js"
   ]
 }
