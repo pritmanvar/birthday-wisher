@@ -1,6 +1,6 @@
 {
-  "homepage": "https://pritmanvar.github.io/first-react-project",
-  "name": "first-react-project",
+  "homepage": "https://pritmanvar.github.io/birthday-wisher",
+  "name": "birthday-wisher",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
